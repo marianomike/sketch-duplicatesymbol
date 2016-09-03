@@ -1,0 +1,27 @@
+{
+  "author" : "Mike Mariano",
+  "commands" : [
+    {
+      "script" : "DuplicateSymbol.js",
+      "handler" : "onRun",
+      "shortcut" : "cmd ctrl shift d",
+      "name" : "Duplicate Symbol",
+      "identifier" : "duplicate-symbol",
+    },
+  ],
+  "menu" : {
+    "title" : "Duplicate Symbol",
+    "isRoot" : true,
+    "items" : [
+      "duplicate-symbol",
+    ],
+  },
+  "identifier" : "com.marianomike.sketch-plugin.duplicate-symbol",
+  "description": "Creates a new symbol from an existing one, without needing to go to Symbols page.",
+  "authorEmail" : "mike@uiuxartist.com",
+  "name" : "Duplicate Symbol",
+  "homepage": "http://uiuxartist.com",
+  "version": "1.0",
+  "compatibleVersion": 3.5,
+  "bundleVersion": 1
+}
