@@ -1,5 +1,6 @@
 Duplicate Symbol Plugin For Sketch
 ==================================
+[![Download from Sketchpacks.com](https://badges.sketchpacks.com/plugins/com.marianomike.sketch-plugin.duplicate-symbol/version.svg)](https://api.sketchpacks.com/v1/plugins/com.marianomike.sketch-plugin.duplicate-symbol/download) [![Compatible Sketch Version](https://badges.sketchpacks.com/plugins/com.marianomike.sketch-plugin.duplicate-symbol/compatibility.svg)](https://sketchpacks.com/marianomike/sketch-duplicatesymbol)
 
 ## Duplicates a selected symbol
 
