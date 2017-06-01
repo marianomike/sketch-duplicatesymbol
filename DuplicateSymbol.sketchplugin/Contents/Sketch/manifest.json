@@ -17,6 +17,7 @@
     ],
   },
   "identifier" : "com.marianomike.sketch-plugin.duplicate-symbol",
+  "appcast": "https://api.sketchpacks.com/v1/plugins/com.marianomike.sketch-plugin.duplicate-symbol/appcast",
   "description": "Creates a new symbol from an existing one, without needing to go to Symbols page.",
   "authorEmail" : "mike@uiuxartist.com",
   "name" : "Duplicate Symbol",
