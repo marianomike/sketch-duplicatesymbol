@@ -6,14 +6,14 @@
       "handler" : "onRun",
       "shortcut" : "cmd ctrl shift d",
       "name" : "Duplicate Symbol",
-      "identifier" : "duplicate-symbol",
+      "identifier" : "duplicate-symbol"
     },
   ],
   "menu" : {
     "title" : "Duplicate Symbol",
     "isRoot" : true,
     "items" : [
-      "duplicate-symbol",
+      "duplicate-symbol"
     ],
   },
   "identifier" : "com.marianomike.sketch-plugin.duplicate-symbol",
